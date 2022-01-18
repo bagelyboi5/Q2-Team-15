@@ -9,6 +9,9 @@ TagManager:
   - GodHand
   - GodHuman
   - Inventoryclone
+  - can
+  - bean2
+  - bean3
   layers:
   - Default
   - TransparentFX
