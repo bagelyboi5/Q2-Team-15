@@ -81,7 +81,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 331567937}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 1180026527}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -101,7 +101,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 331567937}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 983332027}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -121,7 +121,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 331567937}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 1208767725}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -213,7 +213,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 824945263}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 1180026527}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -233,7 +233,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 824945263}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 927057947}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -253,7 +253,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 824945263}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 1459484231}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -345,7 +345,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 927057945}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 1180026527}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -365,7 +365,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 927057945}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 824945265}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -385,7 +385,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 927057945}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 2050329608}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -477,7 +477,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 983332025}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 1180026527}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -497,7 +497,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 983332025}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 1943005692}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -517,7 +517,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 983332025}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 331567939}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -678,7 +678,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 1208767719}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 1180026527}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -698,7 +698,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 1208767719}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 1459484231}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -718,7 +718,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 1208767719}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 331567939}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -810,7 +810,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 1459484229}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 1180026527}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -830,7 +830,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 1459484229}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 824945265}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -850,7 +850,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 1459484229}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 1208767725}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -942,7 +942,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 1943005690}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 1180026527}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -962,7 +962,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 1943005690}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 2050329608}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -982,7 +982,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 1943005690}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 983332027}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -1074,7 +1074,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 2050329606}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 1180026527}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -1094,7 +1094,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 2050329606}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 1943005692}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
@@ -1114,7 +1114,7 @@ SpringJoint2D:
   m_GameObject: {fileID: 2050329606}
   m_Enabled: 1
   serializedVersion: 4
-  m_EnableCollision: 1
+  m_EnableCollision: 0
   m_ConnectedRigidBody: {fileID: 927057947}
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
