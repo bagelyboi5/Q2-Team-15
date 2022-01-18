@@ -29,31 +29,6 @@ public class camera : MonoBehaviour
         {
             xaxisss += .01f;
         }
-        if (Input.GetKey(KeyCode.W))
-        {
-            Yaxisss += .01f;
-        }
-        if (Input.GetKey(KeyCode.S))
-        {
-            Yaxisss -=.01f;
-        }
-        // AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHH
-        if (Input.GetKeyUp(KeyCode.A))
-        {
-            xaxisss += .1f;
-        }
-        if (Input.GetKeyUp(KeyCode.D))
-        {
-            xaxisss -= .1f;
-        }
-        if (Input.GetKeyUp(KeyCode.W))
-        {
-            Yaxisss -= .1f;
-        }
-        if (Input.GetKeyUp(KeyCode.S))
-        {
-            Yaxisss += .1f;
-        }
         if (xaxisss >= 1.1)
         {
             xaxisss = 1;
