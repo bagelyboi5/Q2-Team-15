@@ -91,7 +91,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!231 &434727699167212806
 SpringJoint2D:
   m_ObjectHideFlags: 0
@@ -111,7 +111,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!231 &434727699167212805
 SpringJoint2D:
   m_ObjectHideFlags: 0
@@ -131,7 +131,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!1 &434727699267397470
 GameObject:
   m_ObjectHideFlags: 0
@@ -223,7 +223,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!231 &434727699267397473
 SpringJoint2D:
   m_ObjectHideFlags: 0
@@ -243,7 +243,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!231 &434727699267397472
 SpringJoint2D:
   m_ObjectHideFlags: 0
@@ -263,7 +263,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!1 &434727699303339184
 GameObject:
   m_ObjectHideFlags: 0
@@ -355,7 +355,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!231 &434727699303339187
 SpringJoint2D:
   m_ObjectHideFlags: 0
@@ -375,7 +375,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!231 &434727699303339186
 SpringJoint2D:
   m_ObjectHideFlags: 0
@@ -395,7 +395,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!1 &434727700002004272
 GameObject:
   m_ObjectHideFlags: 0
@@ -487,7 +487,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!231 &434727700002004275
 SpringJoint2D:
   m_ObjectHideFlags: 0
@@ -507,7 +507,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!231 &434727700002004274
 SpringJoint2D:
   m_ObjectHideFlags: 0
@@ -527,7 +527,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!1 &434727700064271057
 GameObject:
   m_ObjectHideFlags: 0
@@ -541,7 +541,7 @@ GameObject:
   - component: {fileID: 434727700064271059}
   - component: {fileID: 434727700064271058}
   m_Layer: 13
-  m_Name: Pain (1)
+  m_Name: smalBean
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -760,7 +760,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!231 &434727700078659774
 SpringJoint2D:
   m_ObjectHideFlags: 0
@@ -780,7 +780,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!231 &434727700078659773
 SpringJoint2D:
   m_ObjectHideFlags: 0
@@ -800,7 +800,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!1 &434727700243236091
 GameObject:
   m_ObjectHideFlags: 0
@@ -892,7 +892,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!231 &434727700243236094
 SpringJoint2D:
   m_ObjectHideFlags: 0
@@ -912,7 +912,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!231 &434727700243236093
 SpringJoint2D:
   m_ObjectHideFlags: 0
@@ -932,7 +932,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!1 &434727700584017894
 GameObject:
   m_ObjectHideFlags: 0
@@ -1025,7 +1025,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!231 &434727700584017898
 SpringJoint2D:
   m_ObjectHideFlags: 0
@@ -1045,7 +1045,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!231 &434727700584017897
 SpringJoint2D:
   m_ObjectHideFlags: 0
@@ -1065,7 +1065,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!61 &434727700584017896
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1272,7 +1272,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!231 &434727701207623577
 SpringJoint2D:
   m_ObjectHideFlags: 0
@@ -1292,7 +1292,7 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
 --- !u!231 &434727701207623576
 SpringJoint2D:
   m_ObjectHideFlags: 0
@@ -1312,4 +1312,4 @@ SpringJoint2D:
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
-  m_Frequency: 5
+  m_Frequency: 1
