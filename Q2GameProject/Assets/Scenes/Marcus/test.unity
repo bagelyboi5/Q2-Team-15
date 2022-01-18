@@ -217,7 +217,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 101dfc110c5777245a0fe0330c7b7485, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
+  player: {fileID: 2007500536}
   slidyX: {fileID: 0}
   notslidyX: {fileID: 0}
   xaxisss: 0
@@ -242,7 +242,7 @@ PrefabInstance:
     - target: {fileID: 7065872097223101477, guid: 81d0307328604704786182af75814273,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 7065872097223101477, guid: 81d0307328604704786182af75814273,
         type: 3}
@@ -426,3 +426,9 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!1 &2007500536 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4685667271224138231, guid: 81d0307328604704786182af75814273,
+    type: 3}
+  m_PrefabInstance: {fileID: 1182537851}
+  m_PrefabAsset: {fileID: 0}
