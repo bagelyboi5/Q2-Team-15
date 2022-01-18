@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 331567942}
   - component: {fileID: 331567941}
   - component: {fileID: 331567940}
-  m_Layer: 13
+  m_Layer: 11
   m_Name: bone_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47,7 +47,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 0.0001
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -87,7 +87,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 0.26992312, y: 0.82262117}
+  m_ConnectedAnchor: {x: 0.26992407, y: 0.822624}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -107,7 +107,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 0.9588248, y: 0.81692606}
+  m_ConnectedAnchor: {x: 0.95882154, y: 0.8169283}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -127,7 +127,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 1.0341145, y: -0.9891532}
+  m_ConnectedAnchor: {x: 1.0341141, y: -0.98915285}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -146,7 +146,7 @@ GameObject:
   - component: {fileID: 824945268}
   - component: {fileID: 824945267}
   - component: {fileID: 824945266}
-  m_Layer: 13
+  m_Layer: 11
   m_Name: bone_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -179,7 +179,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 0.0001
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -219,7 +219,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 1.7137958, y: -0.7626388}
+  m_ConnectedAnchor: {x: 1.7137944, y: -0.76263785}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -239,7 +239,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 0.04634343, y: -1.4801973}
+  m_ConnectedAnchor: {x: 0.046344325, y: -1.4801959}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -259,7 +259,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 0.07279738, y: 0.7117965}
+  m_ConnectedAnchor: {x: 0.072797574, y: 0.7117984}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -278,7 +278,7 @@ GameObject:
   - component: {fileID: 927057950}
   - component: {fileID: 927057949}
   - component: {fileID: 927057948}
-  m_Layer: 13
+  m_Layer: 11
   m_Name: bone_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -311,7 +311,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 0.0001
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -371,7 +371,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 0.939188, y: 1.1450143}
+  m_ConnectedAnchor: {x: 0.9391864, y: 1.1450138}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -391,7 +391,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 0.7800509, y: -0.8797851}
+  m_ConnectedAnchor: {x: 0.7800487, y: -0.8797884}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -410,7 +410,7 @@ GameObject:
   - component: {fileID: 983332030}
   - component: {fileID: 983332029}
   - component: {fileID: 983332028}
-  m_Layer: 13
+  m_Layer: 11
   m_Name: bone_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -443,7 +443,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 0.0001
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -483,7 +483,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: -0.9897173, y: 0.8183372}
+  m_ConnectedAnchor: {x: -0.9897154, y: 0.81833625}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -503,7 +503,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 0.005382315, y: 0.917025}
+  m_ConnectedAnchor: {x: 0.0053842594, y: 0.91702217}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -523,7 +523,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 0.016281271, y: -1.2595427}
+  m_ConnectedAnchor: {x: 0.016285075, y: -1.2595416}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -539,7 +539,7 @@ GameObject:
   - component: {fileID: 1180026526}
   - component: {fileID: 1180026527}
   - component: {fileID: 1180026528}
-  m_Layer: 13
+  m_Layer: 11
   m_Name: bone_9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -572,7 +572,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 0.0001
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -611,7 +611,7 @@ GameObject:
   - component: {fileID: 1208767723}
   - component: {fileID: 1208767722}
   - component: {fileID: 1208767721}
-  m_Layer: 13
+  m_Layer: 11
   m_Name: bone_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -644,7 +644,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 0.0001
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -684,7 +684,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 1.7009422, y: 0.8226212}
+  m_ConnectedAnchor: {x: 1.7009426, y: 0.8226241}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -704,7 +704,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: -0.07570331, y: -0.8665454}
+  m_ConnectedAnchor: {x: -0.07570521, y: -0.8665452}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -724,7 +724,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: -0.0136298705, y: 1.4309542}
+  m_ConnectedAnchor: {x: -0.013629866, y: 1.4309537}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -743,7 +743,7 @@ GameObject:
   - component: {fileID: 1459484234}
   - component: {fileID: 1459484233}
   - component: {fileID: 1459484232}
-  m_Layer: 13
+  m_Layer: 11
   m_Name: bone_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -776,7 +776,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 0.0001
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -816,7 +816,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 1.7137958, y: -0.047129545}
+  m_ConnectedAnchor: {x: 1.7137944, y: -0.047126684}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -836,7 +836,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 0.5571323, y: -0.44895136}
+  m_ConnectedAnchor: {x: 0.5571338, y: -0.44895256}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -856,7 +856,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 0.59190315, y: 0.6374032}
+  m_ConnectedAnchor: {x: 0.5919045, y: 0.6374019}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -875,7 +875,7 @@ GameObject:
   - component: {fileID: 1943005695}
   - component: {fileID: 1943005694}
   - component: {fileID: 1943005693}
-  m_Layer: 13
+  m_Layer: 11
   m_Name: bone_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -908,7 +908,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 0.0001
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -948,7 +948,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: -1.0068548, y: -0.09854319}
+  m_ConnectedAnchor: {x: -1.0068548, y: -0.09854128}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -968,7 +968,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 0.41519156, y: 0.4722727}
+  m_ConnectedAnchor: {x: 0.41519082, y: 0.47227067}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -988,7 +988,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 0.5791698, y: -0.71100354}
+  m_ConnectedAnchor: {x: 0.57916653, y: -0.71100265}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -1007,7 +1007,7 @@ GameObject:
   - component: {fileID: 2050329611}
   - component: {fileID: 2050329610}
   - component: {fileID: 2050329609}
-  m_Layer: 13
+  m_Layer: 11
   m_Name: bone_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1040,7 +1040,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 0.0001
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -1080,7 +1080,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: -0.94258755, y: -0.724079}
+  m_ConnectedAnchor: {x: -0.9425885, y: -0.7240752}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -1100,7 +1100,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 0.07228084, y: -0.62466073}
+  m_ConnectedAnchor: {x: 0.07227986, y: -0.6246588}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -1120,7 +1120,7 @@ SpringJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: -0.021295203, y: 1.1756053}
+  m_ConnectedAnchor: {x: -0.02129143, y: 1.1756064}
   m_AutoConfigureDistance: 1
   m_Distance: 0.005
   m_DampingRatio: 0.5
@@ -1175,8 +1175,8 @@ MonoBehaviour:
   - {fileID: 1208767720}
   - {fileID: 1180026526}
   m_Bounds:
-    m_Center: {x: 0.02730459, y: 0.010045052, z: 0}
-    m_Extent: {x: 0.8926846, y: 1.449955, z: 0}
+    m_Center: {x: 0.030020118, y: 0.010010004, z: 0}
+    m_Extent: {x: 0.8899801, y: 1.44999, z: 0}
   m_UseBatching: 1
   m_AlwaysUpdate: 1
 --- !u!1001 &6341197078075996936
@@ -1419,7 +1419,12 @@ PrefabInstance:
     - target: {fileID: 5311436797939649778, guid: 44bb9d0651b19ea4cadccd5b237ddc75,
         type: 3}
       propertyPath: m_Layer
-      value: 13
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 5311436797939649788, guid: 44bb9d0651b19ea4cadccd5b237ddc75,
+        type: 3}
+      propertyPath: m_Mass
+      value: 0.0001
       objectReference: {fileID: 0}
     - target: {fileID: 5311436797939649789, guid: 44bb9d0651b19ea4cadccd5b237ddc75,
         type: 3}
@@ -1430,6 +1435,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5311436797939649790, guid: 44bb9d0651b19ea4cadccd5b237ddc75,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5311436797939649790, guid: 44bb9d0651b19ea4cadccd5b237ddc75,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.25
       objectReference: {fileID: 0}
     - target: {fileID: 5311436797939649790, guid: 44bb9d0651b19ea4cadccd5b237ddc75,
         type: 3}
