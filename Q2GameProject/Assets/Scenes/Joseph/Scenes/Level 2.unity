@@ -27320,7 +27320,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b80c1a86c3b1df47beee28c1028f7ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  YouNameHere: 
+  YouNameHere: Boss Level
   Beancount2: 5
   Effetr: {fileID: 1610810248}
 --- !u!4 &206866260
