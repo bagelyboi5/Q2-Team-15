@@ -46,7 +46,7 @@ public class BeanSpawn : MonoBehaviour
         if (collision.gameObject.name == "GodHuman")
         {
             Destroy(HumanParent);
-            
+            SceneManager.LoadScene("WIN");
             
         }
     }
@@ -89,7 +89,7 @@ public class BeanSpawn : MonoBehaviour
     public IEnumerator endGame()
     {
 
-
+        HumanParent.GetComponent<Destory>().yes = false;
         Human.GetComponentInChildren<PolygonCollider2D>().enabled = false;
         HumanParent.GetComponent<CircleCollider2D>().enabled = true;
         StopCoroutine(endGame());
