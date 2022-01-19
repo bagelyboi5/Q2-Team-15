@@ -4,18 +4,23 @@ using UnityEngine;
 
 public class Destory : MonoBehaviour
 {
-
+    public GameObject spawnpoint;
+    public GameObject Beaninventory;
+    public GameObject Player;
     public bool yes;
-    private void Start()
+    public void Start()
     {
         yes = true;
+        GetComponent<BeanScriptforinventory>();
     }
-    public void OnTriggerEnter2D(Collider2D collision)
+
+    public void OnCollisionEnter2D(Collision2D collision)
     {
-        if (yes == true) {
-            if (collision.gameObject.tag == "Player")
-                Destroy(collision.gameObject);
-        }
-        
+        Player.transform.position = spawnpoint.transform.position;
+        BeanScriptforinventory.BeanCount = 0;
     }
+
+
+
+
 }
