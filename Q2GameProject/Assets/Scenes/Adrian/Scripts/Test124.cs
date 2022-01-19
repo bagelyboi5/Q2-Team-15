@@ -45,7 +45,7 @@ public class Test124 : MonoBehaviour
             // do things
             if (GameObject.FindGameObjectWithTag("Player") == true || GameObject.FindGameObjectWithTag("GodHuman") == true)
             {
-                Instantiate(GodHand, new Vector3(Random.Range(-1, 40) , 11, 0), Quaternion.identity);
+                Instantiate(GodHand, new Vector3(Random.Range(-14, 20) , 11, 0), Quaternion.identity);
                 
             }
 
