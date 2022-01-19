@@ -479,6 +479,36 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &979217164
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 979217165}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &979217165
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 979217164}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7.37, y: -2.12, z: -0.88131726}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1065208236
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -564,6 +594,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: GodHuman
+      objectReference: {fileID: 0}
+    - target: {fileID: 3775202381405786500, guid: 1647b25800bdb504eb1b7b2310b95d82,
+        type: 3}
+      propertyPath: Player
+      value: 
+      objectReference: {fileID: 124400872}
+    - target: {fileID: 3775202381405786500, guid: 1647b25800bdb504eb1b7b2310b95d82,
+        type: 3}
+      propertyPath: spawnpoint
+      value: 
+      objectReference: {fileID: 979217164}
+    - target: {fileID: 3775202381405786503, guid: 1647b25800bdb504eb1b7b2310b95d82,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8502310975996147776, guid: 1647b25800bdb504eb1b7b2310b95d82,
         type: 3}
@@ -746,6 +791,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlayerOFFICIAL 2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8897758830026802348, guid: 3ff6a703867000f4689c4704235b1717,
+        type: 3}
+      propertyPath: Enemy
+      value: 
+      objectReference: {fileID: 1378271431}
     - target: {fileID: 8897758830026802348, guid: 3ff6a703867000f4689c4704235b1717,
         type: 3}
       propertyPath: Human

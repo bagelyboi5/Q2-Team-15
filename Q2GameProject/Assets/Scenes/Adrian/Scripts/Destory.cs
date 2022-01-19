@@ -16,8 +16,11 @@ public class Destory : MonoBehaviour
 
     public void OnCollisionEnter2D(Collision2D collision)
     {
-        Player.transform.position = spawnpoint.transform.position;
-        BeanScriptforinventory.BeanCount = 0;
+        if (yes == true)
+        {
+            Player.transform.position = spawnpoint.transform.position;
+            BeanScriptforinventory.BeanCount = 0;
+        }
     }
 
 

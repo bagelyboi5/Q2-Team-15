@@ -10,6 +10,7 @@ public class BeanSpawn : MonoBehaviour
     public GameObject Beancan1;
     public GameObject Beancan2;
     public GameObject Beancan3;
+    public GameObject Enemy;
     public GameObject Human;
     public GameObject HumanParent;
     private int i = 0;
@@ -19,7 +20,7 @@ public class BeanSpawn : MonoBehaviour
 
 
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    public void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.name == "bean1")
         {
@@ -45,8 +46,12 @@ public class BeanSpawn : MonoBehaviour
 
         if (collision.gameObject.name == "GodHuman")
         {
-            Destroy(HumanParent);
-            SceneManager.LoadScene("WIN");
+            if (Enemy.GetComponentInChildren<Destory>().yes == false)
+            {
+                Destroy(HumanParent);
+                SceneManager.LoadScene("WIN");
+            }
+            
             
         }
     }
