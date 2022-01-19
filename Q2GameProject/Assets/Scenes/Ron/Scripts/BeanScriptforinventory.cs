@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class BeanScriptforinventory : MonoBehaviour
 {
-    public  static int BeanCount;
+    public static int BeanCount;
     public int beansspawned;
     public GameObject Bean;
     public GameObject spawnpoint;
